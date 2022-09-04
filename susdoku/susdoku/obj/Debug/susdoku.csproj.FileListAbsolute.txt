@@ -1,0 +1,56 @@
+D:\Documents\Visual Studio 2015\Projects\susdoku\susdoku\bin\Debug\susdoku.exe.config
+D:\Documents\Visual Studio 2015\Projects\susdoku\susdoku\bin\Debug\susdoku.exe
+D:\Documents\Visual Studio 2015\Projects\susdoku\susdoku\bin\Debug\susdoku.pdb
+D:\Documents\Visual Studio 2015\Projects\susdoku\susdoku\obj\Debug\susdoku.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\susdoku\susdoku\obj\Debug\susdoku.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\susdoku\susdoku\obj\Debug\susdoku.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\susdoku\susdoku\obj\Debug\susdoku.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\susdoku\susdoku\obj\Debug\susdoku.exe
+D:\Documents\Visual Studio 2015\Projects\susdoku\susdoku\obj\Debug\susdoku.pdb
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe.config
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\bin\Debug\susdoku.pdb
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\obj\Debug\susdoku.csprojAssemblyReference.cache
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\obj\Debug\susdoku.Form1.resources
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\obj\Debug\susdoku.Properties.Resources.resources
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\obj\Debug\susdoku.csproj.GenerateResource.cache
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\obj\Debug\susdoku.exe
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\obj\Debug\susdoku.pdb
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe.config
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\susdoku\obj\Debug\susdoku.exe
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\susdoku\obj\Debug\susdoku.pdb
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\susdoku\bin\Debug\susdoku.pdb
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\susdoku\obj\Debug\susdoku.csprojResolveAssemblyReference.cache
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\susdoku\obj\Debug\susdoku.Form1.resources
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\susdoku\obj\Debug\susdoku.Properties.Resources.resources
+C:\Users\ARSENY\Desktop\susdoku\susdoku\susdoku\susdoku\obj\Debug\susdoku.csproj.GenerateResource.Cache
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe.config
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku\susdoku\susdoku\bin\Debug\susdoku.pdb
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.csprojAssemblyReference.cache
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.Form1.resources
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.Properties.Resources.resources
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.csproj.GenerateResource.cache
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.exe
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.pdb
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe.config
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.exe
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.pdb
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\bin\Debug\susdoku.pdb
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.csprojResolveAssemblyReference.cache
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.Form1.resources
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.Properties.Resources.resources
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.csproj.GenerateResource.Cache
+C:\Users\ARSENY\Desktop\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.FigureSettingsForm.resources
+C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe.config
+C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.exe
+C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.pdb
+C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe
+C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\bin\Debug\susdoku.pdb
+C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.csprojResolveAssemblyReference.cache
+C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.FigureSettingsForm.resources
+C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.Form1.resources
+C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.Properties.Resources.resources
+C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.csproj.GenerateResource.Cache
