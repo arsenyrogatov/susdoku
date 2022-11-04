@@ -50,15 +50,10 @@ namespace susdoku
             ast_coords.Add(new int[] { 7, 4 });
             figur = false;
             kvadr = new List<Kvadrat>();
-            defaultKvadr();
         }
 
         #region nvm
 
-        private void defaultKvadr()
-        {
-            
-        }
 
         private void diagonals_checkBox_CheckedChanged(object sender, EventArgs e)
         {
@@ -297,7 +292,7 @@ namespace susdoku
             }
         }
 
-        void setPole(List<int[,]> pole)
+        public void setPole(List<int[,]> pole)
         {
             int poleIndex = 0;
             var subPole = pole[poleIndex];
@@ -327,17 +322,21 @@ namespace susdoku
         {
             var pole = getPole();
             ogr_panel.Enabled = false;
-            loading_panel.Visible = true;
-            clear_linkLabel.Enabled = false;
+            EnableLoadingAnimation(true);
             solve_button.Enabled = false;
             new Thread(() => {
                 Sus sudoku = new Sus(pole);
                 sudoku.Solve();
 
-                setPole(sudoku.a);
-                loading_panel.Visible = false;
-                clear_linkLabel.Enabled = true;
+                Invoke(new Action<List<int[,]>>(setPole), new object[] { sudoku.a } );
+                Invoke(new Action<bool>(EnableLoadingAnimation), new object[] { false } );
             }).Start();
+        }
+
+        public void EnableLoadingAnimation (bool isEnable)
+        {
+            loading_panel.Visible = isEnable;
+            clear_linkLabel.Enabled = !isEnable;
         }
 
         private class Sus

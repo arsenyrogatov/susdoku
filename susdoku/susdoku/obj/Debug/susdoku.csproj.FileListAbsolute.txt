@@ -54,3 +54,15 @@ C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\su
 C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.Form1.resources
 C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.Properties.Resources.resources
 C:\Users\ARSENY\Desktop\судоку помойка\susdoku matr\susdoku matr\susdoku\susdoku\susdoku\obj\Debug\susdoku.csproj.GenerateResource.Cache
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe.config
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\bin\Debug\susdoku.exe
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\bin\Debug\susdoku.pdb
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\obj\Debug\susdoku.csproj.AssemblyReference.cache
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\obj\Debug\susdoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\obj\Debug\susdoku.FigureSettingsForm.resources
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\obj\Debug\susdoku.Form1.resources
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\obj\Debug\susdoku.Properties.Resources.resources
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\obj\Debug\susdoku.csproj.GenerateResource.cache
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\obj\Debug\susdoku.csproj.CoreCompileInputs.cache
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\obj\Debug\susdoku.exe
+C:\Users\ARSENY\Source\Repos\susdoku\susdoku\susdoku\obj\Debug\susdoku.pdb
